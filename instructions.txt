@@ -1,0 +1,25 @@
+Inlämning1 PHP
+
+1. Bygg ett API som hanterar bilar och sparar dem i MySQL
+
+• En bil har följande egenskaper (kolumner i databasen)
+    i. Id
+    ii. Make
+    iii. Model2
+    
+. Lägg till ett separat php-script för var och en av CRUD-operationerna
+
+• Create(create-car.php)
+
+• Read(get-cars.php & get-car.php)
+
+• Update(update-car.php)
+
+• Delete(delete-car.php)
+
+3. Testa att APIet fungerar med Postman
+
+4. Dokumentera att APIet fungerar genom att ta skärmbilder på Postman, din kod, 
+och din databas och visa alla anrop. 
+
+Skicka in koden och dokumentationen på ItsLearning senast 2022-05-04 23:55
